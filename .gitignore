@@ -43,3 +43,6 @@ example
 /android
 
 .idea/
+
+# husky
+.husky/_/
